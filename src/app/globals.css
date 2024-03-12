@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  margin: 0; height: 100
+}
+
+.signUpForm{
+  padding: 20px;
+  margin: 10px;
+}
